@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <plurals name="first_activity_contacts_result">
+        <item quantity="zero">У вас нет контактов</item>
+        <item quantity="one">У вас %d контакт</item>
+        <item quantity="few">У вас %d контакта</item>
+        <item quantity="other">У вас %d контактов</item>
+    </plurals>
+</resources>
